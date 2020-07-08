@@ -22,13 +22,13 @@ html[data-theme='dark'] {
   --pre-bg-color:rgb(33,33,45);
   --nav-text-color:rgb(191, 191, 191);
   --tag-color: rgb(191, 191, 191);
-  
+
 }
 
 html {
   background-color: var(--bg-color);
   -webkit-font-smoothing: antialiased;
-  
+
 }
 
 body {
@@ -156,7 +156,7 @@ a:hover, a:active {
 .content {
   height: auto;
   float: right;
-  width: 60%;
+  width: 80%;
   margin-top: 60px;
 }
 
@@ -221,7 +221,7 @@ a:hover, a:active {
 }
 
 .sidebar {
-  width: 40%;
+  width: 20%;
   -webkit-background-size: cover;
   background-size: cover;
   background-color: var(--bg-color);
